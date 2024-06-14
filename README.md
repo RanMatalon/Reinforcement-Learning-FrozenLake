@@ -5,7 +5,7 @@
 ### Policy vs Value iteration discussion:
 
 ### It's clear that Policy iteration takes less iterations to be evaluated (for same theta) - 7 comapring to 156 in value iteration.
-### While policy iteration needs less iteration to converge, it is clear that its' policy function is by far better than the value one, while valute iteration gives much better and accurate value function.
+### While policy iteration needs less iteration to converge, it is clear that its policy function is by far better than the value one, while valute iteration gives much better and accurate value function.
 
 ### Monte Carlo vs Sarsa vs Q-Learning discussion:
 
