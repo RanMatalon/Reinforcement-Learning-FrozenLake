@@ -1,11 +1,11 @@
 # Reinforcement-Learning-FrozenLake
 
-### In this project I present several algorithms in reinforcement learning for the convergence of a value/policy function in the frozen lake game.
+### In this project I present several algorithms in reinforcement learning for optimized convergence of a value/policy function in the frozen lake game.
 
 ### Policy vs Value iteration discussion:
 
-### It's clear that Policy iteration takes less iterations to be evaluated (for same theta) - 9 comapring to 119 in value iteration.
-### While policy iteration needs less iteration to converge, it is clear that its' iterations by far more expansive than the value one - 0.001 secs for policy, 0.0005 for value (doubled).
+### It's clear that Policy iteration takes less iterations to be evaluated (for same theta) - 7 comapring to 156 in value iteration.
+### While policy iteration needs less iteration to converge, it is clear that its' policy function is by far better than the value one, while valute iteration gives much better and accurate value function.
 
 ### Monte Carlo vs Sarsa vs Q-Learning discussion:
 
